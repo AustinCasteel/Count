@@ -1,0 +1,10 @@
+[Plugin]
+Name = Count
+Version = 1.0
+License = MIT
+URL = https://github.com/austincasteel/count/
+Description = Have Naomi count up or down
+
+[Author]
+Name = Austin Casteel
+URL = https://github.com/austincasteel/
