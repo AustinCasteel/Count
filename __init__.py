@@ -26,7 +26,6 @@ class Count(plugin.SpeechHandlerPlugin):
 
     @staticmethod
     def word2number(intent):
-        text = intent['input']
         number = None
         if "matches" in intent:
             if "NumberKeyword" in intent["matches"]:
